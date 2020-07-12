@@ -1,16 +1,16 @@
-### Hi there 👋
+### Hello! ✌
 
-<!--
-**samirvaf/samirvaf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is Samir Ferreira. I've been working as Test Automation Engineer since 2017 and i'm currently at this amazing company called [Wildlife Studios](https://www.wildlifestudios.com) 😍
 
-Here are some ideas to get you started:
+I'm passionate about software development, so i'm always learning something new and exciting. My main focus right now is Game Development with Unity 💻
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+In my free time I like to:
+- 🎮 Play video games with friends and my beautiful wife
+- 📺 Watch series and anime
+- 📖 Read books
+- 🎸 Listen to music, mostly rock and metal
+
+Feel free to me reach out 😄
+
+
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/felipefialho)](https://www.linkedin.com/in/felipefialho)
