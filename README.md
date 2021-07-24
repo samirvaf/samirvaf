@@ -2,7 +2,7 @@
 
 My name is **Samir Ferreira**. I've been working as Test Automation Engineer/SDET since 2017.
 
-I'm passionate about software development, so i'm always learning something new and exciting. My main focus right now is **Game Development with Unity** 💻
+I'm passionate about software development, so i'm always learning something new and exciting.
 
 In my free time I like to:
 - 🎮 Play video games with friends and my beautiful wife
