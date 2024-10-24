@@ -10,7 +10,7 @@ In my free time I like to:
 - 📖 Read books
 - 🎸 Listen to music, mostly rock and metal
 
-Feel free to me reach out 😄
+Feel free to reach out 😄
 
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/samir-ferreira)](https://www.linkedin.com/in/samir-ferreira)
